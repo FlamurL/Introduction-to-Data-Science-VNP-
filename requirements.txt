@@ -1,0 +1,14 @@
+jupyterlab
+ipykernel
+requests
+beautifulsoup4
+lxml
+playwright
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
